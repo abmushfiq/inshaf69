@@ -26,7 +26,7 @@
 
 <br />
 
-Hi, I'm [Inshaf ahamed](https://Inshafahamed.tech), a Full Stack Developer 🚀 from SriLanka, Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Inshaf ahamed](https://Inshafahamed.tech), a Full Stack Developer 🚀 from SriLanka,
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
